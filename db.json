@@ -2,13 +2,15 @@
   "notes": [
     {
       "id": 1,
-      "name": "Ремонт крыши",
-      "priority": 2
+      "title": "Ремонт крыши",
+      "priority": 2,
+      "completed": false
     },
     {
       "id": 2,
-      "name": "Вывоз мусора",
-      "priority": 1
+      "title": "Вывоз мусора",
+      "priority": 1,
+      "completed": false
     }
   ]
 }
